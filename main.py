@@ -3,7 +3,6 @@ import telebot
 import os
 from dotenv import load_dotenv, find_dotenv
 from telebot import types
-#import config_token
 
 load_dotenv(find_dotenv())
 
